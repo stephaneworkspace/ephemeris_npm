@@ -1,6 +1,6 @@
 {
     "name": "ephemeris_npm",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "description": "This package will return ephemeris",
     "main": "./lib/index.js",
     "repository": {
@@ -15,10 +15,10 @@
     },
     "readme": "# A FAIRE",
     "readmeFilename": "README.md",
-    "dependencies": {},
-    "devDependencies": {
+    "dependencies": {
         "moment-timezone": "^0.5.23"
     },
+    "devDependencies": {},
     "optionalDependencies": {},
     "engines": {
         "node": "*"
@@ -27,7 +27,7 @@
         "url": "https://github.com/stephaneworkspace/ephemeris_npm"
     },
     "homepage": "https://github.com/stephaneworkspace/ephemeris_npm",
-    "_id": "ephemeris_npm@0.0.2",
+    "_id": "ephemeris_npm@0.0.3",
     "scripts": {},
     "_shasum": "db9a913c2f8893d477472647917493f2c0949adb",
     "_from": "ephemeris_npm@"
