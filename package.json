@@ -1,6 +1,6 @@
 {
     "name": "ephemeris_npm",
-    "version": "0.0.11",
+    "version": "0.0.13",
     "description": "This package will return ephemeris",
     "main": "./lib/index.js",
     "repository": {
@@ -27,7 +27,7 @@
         "url": "https://github.com/stephaneworkspace/ephemeris_npm"
     },
     "homepage": "https://github.com/stephaneworkspace/ephemeris_npm",
-    "_id": "ephemeris_npm@0.0.11",
+    "_id": "ephemeris_npm@0.0.13",
     "scripts": {},
     "_shasum": "db9a913c2f8893d477472647917493f2c0949adb",
     "_from": "ephemeris_npm@"
