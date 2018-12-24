@@ -1,0 +1,34 @@
+{
+    "name": "ephemeris_npm",
+    "version": "0.0.2",
+    "description": "This package will return ephemeris",
+    "main": "./lib/index.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/stephaneworkspace/ephemeris_npm"
+    },
+    "keywords": [
+        "sweet-lstat"
+    ],
+    "author": {
+        "name": "Bressani Stéphane code repris de https://github.com/mivion/ephemeris"
+    },
+    "readme": "# A FAIRE",
+    "readmeFilename": "README.md",
+    "dependencies": {},
+    "devDependencies": {
+        "moment-timezone": "^0.5.23"
+    },
+    "optionalDependencies": {},
+    "engines": {
+        "node": "*"
+    },
+    "bugs": {
+        "url": "https://github.com/stephaneworkspace/ephemeris_npm"
+    },
+    "homepage": "https://github.com/stephaneworkspace/ephemeris_npm",
+    "_id": "ephemeris_npm@0.0.2",
+    "scripts": {},
+    "_shasum": "db9a913c2f8893d477472647917493f2c0949adb",
+    "_from": "ephemeris_npm@"
+}
