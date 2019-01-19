@@ -1,6 +1,6 @@
 {
     "name": "ephemeris_npm",
-    "version": "0.0.17",
+    "version": "0.0.18",
     "description": "This package will return ephemeris",
     "main": "./lib/index.js",
     "repository": {
@@ -19,7 +19,7 @@
         "moment-timezone": "^0.5.23"
     },
     "devDependencies": {
-        "ascendantastrologyspecial": "^1.0.0"
+        "ascendantastrologyspecial": "^1.0.1"
     },
     "optionalDependencies": {},
     "engines": {
